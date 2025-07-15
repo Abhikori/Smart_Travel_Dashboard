@@ -22,7 +22,7 @@ The Smart Travel Dashboard is a responsive web application designed to help trav
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/smart-travel-dashboard.git
-   cd smart-travel-dashboard
+   cd smart_travel_dashboard
    ```
 2. Install dependencies:
    ```bash
